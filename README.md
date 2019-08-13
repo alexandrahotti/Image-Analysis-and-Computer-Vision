@@ -1,4 +1,4 @@
-# Image-Processing-and-Computer-Vision
+# Image Processing and Computer Vision
 Lab assignments for the course DD2423 Image Analysis and Computer Vision at KTH.
 
 ## Assignment 1
