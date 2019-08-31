@@ -1,9 +1,8 @@
 # Image Processing and Computer Vision
-Lab assignments for the course DD2423 Image Analysis and Computer Vision at KTH.
+Lab assignments for a course in Image Analysis and Computer Vision at KTH.
 
-## Assignment 1
-The first assignment in this course covers frequency analysis of image data via continuous and discrete Fourier transformations, designing
-smoothing filters for Gaussian convolutions, smoothing different kinds of noise via various filters and smoothing subsampled images.
+## Assignment 1 - Fourier transformations
+The first assignment in this course covers frequency analysis of image data via continuous and discrete Fourier transformations, designing smoothing filters for Gaussian convolutions, smoothing different kinds of noise via various filters and smoothing subsampled images.
 
 ### Excerpt of some results
 <p float="left" align='center'>  
@@ -11,7 +10,7 @@ smoothing filters for Gaussian convolutions, smoothing different kinds of noise 
  /><img src='https://github.com/alexandrahotti/Image-Processing-and-Computer-Vision/blob/master/Assignment%201/3%20-%20Smoothing/Smoothing%20of%20noisy%20data/results/gauss_smooth_gauss_noise.png' width="60%" height="60%"
  />
 
-## Assignment 2
+## Assignment 2 - Edge and line detection
 The next assignment was to implement a multi scale differential geometry-based edge detector to detect lines with the Hough transform. 
 
 ### Excerpt of some results
@@ -23,9 +22,8 @@ The next assignment was to implement a multi scale differential geometry-based e
  /><img src='https://github.com/alexandrahotti/Image-Processing-and-Computer-Vision/blob/master/Assignment%202/3%20-%20Differential%20geometry%20based%20edge%20detection/results/lvv_zero_corss_q4.jpg' width="80%" height="80%"
  />
 
-## Assignment 3
-In the last assignment several segmentation methods were implemented and applied to images. These methods where K-means clustering, 
-Mean-shift segmentation, Normalized Cut and Graph Cuts using image Gaussian mixture models.
+## Assignment 3 - Image segmentation
+In the last assignment several segmentation methods were implemented and applied to images. These methods where K-means clustering, Mean-shift segmentation, Normalized Cut and Graph Cuts using image Gaussian mixture models.
 
 ### Excerpt of some results
 <p float="left" align='center'>
