@@ -1,4 +1,4 @@
-# Image Processing and Computer Vision
+# Image Analysis and Computer Vision
 Lab assignments for a course in Image Analysis and Computer Vision at KTH.
 
 ## Assignment 1 - Fourier transformations
